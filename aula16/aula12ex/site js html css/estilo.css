@@ -1,7 +1,13 @@
 body {
     /* Gradiente de azul claro para representar a manhã */
     background: linear-gradient(135deg, #B3E5FC, #FFC371);
-    font: normal 15pt Arial, sans-serif;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
 }
 
 header {
@@ -14,9 +20,7 @@ section {
     background: #FFCC80;
     border-radius: 10px;
     padding: 50px;
-    width: 80%;
     max-width: 600px;
-    margin: 50px auto;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
 }
 
@@ -25,4 +29,12 @@ footer {
     color: #7986CB;
     text-align: center;
     font-style: italic;
+}
+
+#imagem {
+    display: block;
+    margin: 0 auto; /* Centraliza a imagem horizontalmente */
+    border-radius: 50%;
+    width: 200px; /* Ajuste conforme necessário */
+    height: 200px; /* Ajuste conforme necessário */
 }
