@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(135deg, #FF5F6D, #FFC371);
+    background: linear-gradient(135deg, #FF5F6D, #00587A);
     font: normal 15pt Arial, sans-serif;
 }
 
@@ -9,7 +9,7 @@ header {
 }
 
 section {
-    background: #FFD2E2;
+    background: #FFC371;
     border-radius: 10px;
     padding: 50px;
     width: 80%;
