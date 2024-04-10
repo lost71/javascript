@@ -1,0 +1,25 @@
+body {
+    background: linear-gradient(135deg, #4A90E2, #60A8EA); /* Azul */
+    font: normal 15pt Arial, sans-serif;
+}
+
+header {
+    color: #FFF; /* Branco */
+    text-align: center;
+}
+
+section {
+    background: #FFD700; /* Amarelo */
+    border-radius: 10px;
+    padding: 50px;
+    width: 80%;
+    max-width: 600px;
+    margin: 50px auto;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    color: #FF4500; /* Laranja */
+    text-align: center;
+    font-style: italic;
+}
