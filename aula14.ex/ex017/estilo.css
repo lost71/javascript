@@ -23,3 +23,12 @@ footer {
     text-align: center;
     font-style: italic;
 }
+#tabuada-container {
+    margin-top: 20px;
+    border: 2px solid #FFF;
+    padding: 10px;
+    background-color: #FFF;
+    border-radius: 5px;
+    color: #333;
+}
+
